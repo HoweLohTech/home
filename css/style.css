@@ -1,5 +1,6 @@
-html{
+html, body{
 	margin-top: 5px;
+	background-color: #E5FFFF;
 }
 
 footer{
