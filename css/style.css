@@ -1,8 +1,9 @@
 html, body{
 	margin-top: 5px;
-	background-color: #E5FFFF;
+	background-color: #F2F2F2;
 }
 
 footer{
+	margin-top: 10px;
 	text-align: center;
 }
