@@ -9,7 +9,8 @@ footer{
 }
 
 .jumbotron{
-	background-image: url('images/cmw_workstn.jpg'); /*Picture not final, simply a place holder, supplied by morguefile.com*/
+	/*background-image: url('images/cmw_workstn.jpg');*/
+	background-color: #CCCCCC;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
