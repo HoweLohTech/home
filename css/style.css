@@ -15,3 +15,7 @@ footer{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#services img{
+	margin-left: 30%;
+}
