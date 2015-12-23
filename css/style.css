@@ -4,8 +4,10 @@ html, body{
 }
 
 footer{
-	margin-top: 10px;
+	margin-top: 15px;
 	text-align: center;
+	font-style: italic;
+	clear: both;
 }
 
 .jumbotron{
@@ -16,6 +18,12 @@ footer{
 	background-size: cover;
 }
 
-#services img{
-	margin-left: 30%;
+#service-img{
+	width: 150px;
+	margin: auto;
+}
+
+#contact-form{
+	width: 500px;
+	margin: 15px auto;
 }
