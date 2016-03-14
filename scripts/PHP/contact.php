@@ -15,7 +15,7 @@ if($_POST['submit'] && $antispam == '4'){
 	} else {
 		echo '<p>Something went wrong, go back and try again!</p>';
 	}
-} else if ($_Post['submit'] && $antispam != '4'){
-	echo '<p>You answered the anti-spam question incorrectly!</p>'
+} else if ($_POST['submit'] && $antispam != '4'){
+	echo '<p>You answered the anti-spam question incorrectly!</p>';
 }
 ?>
