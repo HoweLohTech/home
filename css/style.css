@@ -4,6 +4,7 @@ html, body{
 }
 
 footer{
+<<<<<<< HEAD
 	margin-top: 10px;
 	text-align: center;
 }
@@ -13,4 +14,38 @@ footer{
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
+=======
+	margin-top: 15px;
+	text-align: center;
+	font-style: italic;
+	clear: both;
+}
+
+.jumbotron{
+	/*background-image: url('images/cmw_workstn.jpg');*/
+	background-color: #CCCCCC;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#service-img{
+	width: 150px;
+	margin: 25px auto;
+}
+
+#contact-form{
+	width: 500px;
+	margin: 15px auto;
+}
+
+.serv-list{
+	list-style: none;
+	font-style: italic;
+}
+
+.serv-list li{
+	list-style: none;
+	margin-left: 15px;
+>>>>>>> Initial-Creation
 }
